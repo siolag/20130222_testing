@@ -11,3 +11,6 @@ MarkDown語法, 類似HTML <br/>
 開頭space沒作用 <br/>
 Setext - 底線為標題<br/>
 ****
+Manu Raghavan 提供MATLAB wrapper:
++ **[M-git](http://raghavan.info/blog/2010/10/30/make-matlab-git-play-well-together/"A thin MATLAB wrapper for the Git source control system")**
++ **[GitHub](https://github.com/manur/MATLAB-git"GitHub for MATLAB-Git")**
